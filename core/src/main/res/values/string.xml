@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Currency tracker</string>
+    <string name="currencies">Currencies</string>
+    <string name="favourites">Favourites</string>
+    <string name="filter">Filter</string>
+    <string name="filters">Filters</string>
+    <string name="sort_by">SORT BY</string>
+</resources>
